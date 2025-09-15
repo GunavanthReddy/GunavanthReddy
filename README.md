@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Generative+AI+Engineer;Cloud+%26+Microservices+Enthusiast)](https://git.io/typing-svg)
 # 👋 Hi, I'm Gunavanth Dega  
 
 🎓 Master's in Computer Science – University of Central Missouri  
@@ -62,3 +63,5 @@
 ---
 
 ✨ *Thanks for visiting my profile! Feel free to check out my projects and connect with me.*  
+![Profile Views](https://komarev.com/ghpvc/?username=GunavanthReddy&color=blue)
+
