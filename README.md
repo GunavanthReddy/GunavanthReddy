@@ -33,7 +33,7 @@
 - [📊 QuizzApp Microservice-Based](https://github.com/GunavanthReddy/QuizzApp_Microservice-Based)  
    *Designed a **microservices architecture** using Spring Boot, Eureka, Feign, and MySQL.*  
 
-- [⚡ Enterprise Test Automation Framework](https://github.com/GunavanthReddy/SchedulrAI)  
+- [🤖 front desk assistant](https://github.com/GunavanthReddy/SchedulrAI)  
    *Developed a **voice-enabled front desk assistant** using Gemini 2.5 to handle healthcare administrative tasks..* 
 
 - [🤖 Health Insurance Agent](https://github.com/GunavanthReddy/-Health_Insurance-ChatBot)  
