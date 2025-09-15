@@ -5,7 +5,7 @@
 🎓 Master's in Computer Science – University of Central Missouri  
 💻 Software Engineer | Full-Stack Developer | AI & Generative AI Engineer  
 🚀 Passionate about building scalable enterprise applications, AI-driven solutions, and automation frameworks.  
-🔧 Experienced in **Java Spring Boot, Microservices, React, Angular, AWS, Docker, Kubernetes, Test Automation, and AI/ML pipelines**.  
+🔧 Experienced in **Java Spring Boot, Microservices, React, Angular, Cloud, Docker, Kubernetes, Test Automation, GEN AI**.  
 
 📫 Reach me at: [saigunavanth@gmail.com](mailto:saigunavanth@gmail.com)  
 🌍 Connect with me: [LinkedIn](https://www.linkedin.com/in/gunavanth-dega/) | [GitHub](https://github.com/GunavanthReddy)  
