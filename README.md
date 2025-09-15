@@ -20,33 +20,11 @@
 
 ## ⚡ Tech Stack  
 
-### 🖥️ Software & Cloud
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)  
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5)  
-![Mockito](https://img.shields.io/badge/Mockito-4A4A55?style=for-the-badge)  
-![Testcontainers](https://img.shields.io/badge/Testcontainers-2C2D72?style=for-the-badge&logo=testcontainers)  
+### 🖥️ Software & Cloud  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5) ![Mockito](https://img.shields.io/badge/Mockito-4A4A55?style=for-the-badge) ![Testcontainers](https://img.shields.io/badge/Testcontainers-2C2D72?style=for-the-badge&logo=testcontainers)  
 
-### 🤖 AI & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)  
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=ai)  
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai)  
-![LangChain](https://img.shields.io/badge/LangChain-2CA5E0?style=for-the-badge&logo=chainlink)  
-![RAG](https://img.shields.io/badge/RAG-Pipeline-blueviolet?style=for-the-badge)  
-![Pinecone](https://img.shields.io/badge/Pinecone-008080?style=for-the-badge&logo=pinecone)  
-![FAISS](https://img.shields.io/badge/FAISS-4682B4?style=for-the-badge)  
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)  
-![ML Pipelines](https://img.shields.io/badge/ML%20Pipelines-FF1493?style=for-the-badge)  
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FFD700?style=for-the-badge)  
+### 🤖 AI & ML  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy) ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=ai) ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai) ![LangChain](https://img.shields.io/badge/LangChain-2CA5E0?style=for-the-badge&logo=chainlink) ![RAG](https://img.shields.io/badge/RAG-Pipeline-blueviolet?style=for-the-badge) ![Pinecone](https://img.shields.io/badge/Pinecone-008080?style=for-the-badge&logo=pinecone) ![FAISS](https://img.shields.io/badge/FAISS-4682B4?style=for-the-badge) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge) ![ML Pipelines](https://img.shields.)
 
 ---
 
