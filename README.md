@@ -57,17 +57,7 @@
    *Built an **AI agent with RAG pipeline** (Vertex AI + Qdrant) for handling complex insurance queries.*  
 
 - [⚡ Enterprise Test Automation Framework](https://github.com/GunavanthReddy/Test-Automation-Framework)  
-   *Developed a **scalable test automation system** using Java, Docker, and Testcontainers.*  
-
----
-
-## 📈 GitHub Stats  
-
-![Gunavanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=GunavanthReddy&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunavanthReddy&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=GunavanthReddy&theme=dark&hide_border=true)  
+   *Developed a **scalable test automation system** using Java, Docker, and Testcontainers.* 
 
 ---
 
